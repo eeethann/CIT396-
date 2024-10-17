@@ -3,6 +3,6 @@ This is the github account created specifically for CIT396.
 
 Here I will be showcasing the following:
 
-:HTML/CSS/JavaScript Project
-:Networking Project - with complete and functional topology
-:Python Scripts - to complete specific tasks
+1. HTML/CSS/JavaScript Project
+2. Networking Project - with complete and functional topology
+3. Python Scripts - to complete specific tasks
